@@ -19,15 +19,6 @@
 
 <ul style="list-style-type:circle">
    <li>Version Control System</li>
-       <ol >
-         <li>Sysytem </li>
-         <li>CSS</li>
-         <li>JavaScript</li>
-      </ol>
-         <li>PLatforms</li>
-      <ol >
-         <li>VS Code</li>
-         <li>Sublime</li>
-      </ol>
+       
 </ul>
 
