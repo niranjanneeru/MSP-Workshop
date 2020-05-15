@@ -41,6 +41,58 @@ your machine</li>
 <li>Push:  The process of adding your local changes to the remote
 repository</li>
 <li>Branch wise division and merging</li>
-       
+      </ol> 
 </ul>
+
+
+### Steps:-
+
+
+Create a Repo with some name in github say "MSP"
+
+
+Open git client or Terminal
+
+```bash
+$ git init
+Initialized empty Git repository in <Some Location>
+
+$ echo "# New Project " > README.md
+
+$ echo "New LICENSE " > LICENSE
+
+$ git add .
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory
+
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   README.md
+        modified:   LICENSE
+
+$ git remote add origin https://github.com/Niranjanprof/MSP.git
+
+$ git remote
+origin
+
+
+$ git push -u origin master
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (4/4), 284 bytes | 94.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0)
+To https://github.com/Niranjanprof/MSP.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+
+
+
+```
 
