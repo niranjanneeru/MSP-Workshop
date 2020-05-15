@@ -24,9 +24,10 @@ Workshop on Web Development Organized by Microsoft Student Partner - TKMCE
 
 | File | Content |
 |--------|------|
-|DAY 1 |      Introduction to Web Development|
+|DAY 1 |Introduction to Web Development|
 |DAY 2 |Git and Github|
-|DAY 3 | Introduction to HTML|
+|DAY 3 |HTML|
+|DAY 4 |CSS|
 
 
 ---
