@@ -74,6 +74,12 @@ Changes to be committed:
         modified:   README.md
         modified:   LICENSE
 
+
+$ git commit -m "initial commit"
+[master 8fa8d6e] first commit
+ 1 file changed, 53 insertions(+), 1 deletion(-)
+
+
 $ git remote add origin https://github.com/Niranjanprof/MSP.git
 
 $ git remote
