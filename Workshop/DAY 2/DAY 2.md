@@ -19,6 +19,28 @@
 
 <ul style="list-style-type:circle">
    <li>Version Control System</li>
+   <ol>
+   <li>System keeps Track of Changes</li>
+   <li>Track of Changes over time</li>
+   <li>Collaborative development</li>
+   </ol>
+   <li>Version Control Systems</li>
+   <ol>
+   <li>Git</li>
+   <li>Perforce</li>
+   <li>Subversion</li>
+   <li>Mercurial</li>
+   </ol>
+   <li>Git Working</li>
+   <ol>
+   <li>Snapshot(Changes at a point of time)Commit is the act of creating Snapshots</li>
+   <li>Files Stored as Repo</li>
+   <li>Cloning :Act of Copying Repo from remote server</li>
+   <li>Pull: Downloading commits that don’t exist on
+your machine</li>
+<li>Push:  The process of adding your local changes to the remote
+repository</li>
+<li>Branch wise division and merging</li>
        
 </ul>
 
