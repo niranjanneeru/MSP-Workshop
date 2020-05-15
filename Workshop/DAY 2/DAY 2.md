@@ -62,8 +62,6 @@ $ echo "# New Project " > README.md
 $ echo "New LICENSE " > LICENSE
 
 $ git add .
-warning: LF will be replaced by CRLF in README.md.
-The file will have its original line endings in your working directory
 
 $ git status
 On branch master
