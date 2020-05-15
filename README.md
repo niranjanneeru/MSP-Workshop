@@ -32,8 +32,8 @@ Workshop on Web Development Organized by Microsoft Student Partner - TKMCE
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Niranjanprof"><img src="https://avatars1.githubusercontent.com/u/48713926?s=400&u=a473cb9bbbc98506ae6b55ccd2b45cfdc941d517&v=4" width="100px" alt=""/><br /><sub><b>Niranjan B(Prof Moriarty)</b></sub></a><br /><a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=Niranjanprof" title="Code">💻</a> <a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=Niranjanprof" title="Documentation">📖</a> <a href="#maintenance-Niranjanprof" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/AJITH-klepsydra"><img src="https://avatars3.githubusercontent.com/u/62293152?s=400&v=4" width="100px" alt=""/><br /><sub><b>Ajith PM(Klepsydra Alpha)</b></sub></a><br /><a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=AJITH-klepsydra" title="Code">💻</a> <a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=AJITH-klepsydra" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/thameemk612"><img src="https://avatars0.githubusercontent.com/u/33159840?s=400&u=4b94857eac651dcfaa0db2797cc381bb4ab34a99&v=4" width="100px" alt=""/><br /><sub><b>Thameem Karakkoth</b></sub></a></td>
+    <td align="center"><a href="https://github.com/AkmarNafi"><img src="https://avatars0.githubusercontent.com/u/20369607?s=400&u=6cf1f3f44db50cc339337067ec38e9abaef3093f&v=4" width="100px" alt=""/><br /><sub><b>Akmar Nafi</b></sub></a></td>
   </tr>
 </table>
 
