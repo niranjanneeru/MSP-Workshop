@@ -27,6 +27,7 @@
 <script>
 
     export default {
+        import  _  from "lodash";
         props: {
             'question': Object,
             next: Function,
@@ -79,7 +80,7 @@
             },
             shuffleAnswers() {
                 let answers = [...this.question.incorrect_answers, this.question.correct_answer]
-                this.shuffledAnswers = (answers)
+                this.shuffledAnswers = _.shuffle(answers)
                 this.correctIndex = this.shuffledAnswers.indexOf(this.question.correct_answer)
             }
         }
